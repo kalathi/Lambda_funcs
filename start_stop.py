@@ -1,7 +1,7 @@
 #!/usr/bin/python
 ########################################################################
 # Description: Auto Start | Stop the AWS EC2 instances
-# Created: Gulfam Wani
+# Created: Gulfa rani
 # Modified: Amit Surana : Replaced IAM Keys with Roles, Script code adjusted to                                                                                         accomodate the feature
 ########################################################################
 import boto.ec2
